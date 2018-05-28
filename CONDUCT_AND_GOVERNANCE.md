@@ -41,3 +41,5 @@ In case of misconduct or other types of conflict, the BDFL will try their best
 to understand the situation and discuss it with the involved parties before
 deciding on how to resolve the conflict. Please note that severe circumstances
 may result in suspension or even permanent bans.
+
+The BDFL can be reached through the following e-mail address: governance@restic.net
