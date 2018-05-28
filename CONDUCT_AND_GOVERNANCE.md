@@ -28,7 +28,7 @@ you feel offended by what they said, remind them that it's fine to disagree and
 that you wish to continue the discussion in a civilized manner only, or not at
 all. If the situation derails, please seek advice from the BDFL (see below).
 
-## Governance and conflicts
+## Governance and conflict resolution
 
 The restic project uses a governance model commonly described as Benevolent
 Dictator For Life (BDFL). The BDFL is a single individual who makes decisions
