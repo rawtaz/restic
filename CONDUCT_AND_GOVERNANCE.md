@@ -1,4 +1,4 @@
-# restic project and community spirit
+# The restic project and community spirit
 
 ## Overview
 
