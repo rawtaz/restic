@@ -18,8 +18,8 @@ you think twice before replying when tension is high, and try to understand the
 other party - realize that their communication might be due to different needs,
 experiences, and use cases than yours.
 
-Personal attacks are not tolerated within the community. Please also choose your
-words carefully, as social and cultural backgrounds as well as language barriers
+Personal attacks are not tolerated within the community. Please choose your words
+carefully, as both social and cultural backgrounds as well as language barriers
 may contribute to a discrepancy between your intention and what was interpreted.
 
 At a time when someone fails at showing you the respect you deserve, make the
